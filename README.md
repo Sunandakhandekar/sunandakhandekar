@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Advance java**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Sunandakhandekar/portfolio.github.io](https://github.com/Sunandakhandekar/portfolio.github.io)
+- 👨‍💻 All of my projects are available at https://github.com/Sunandakhandekar
 
 - 💬 Ask me about **core java, html, css,sql**
 
